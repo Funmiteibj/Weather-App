@@ -1,4 +1,4 @@
-const apiKey = process.env.REACT_APP_WEATHER_API_KEY; //  OpenWeatherMap API key
+const apiKey = "YOUR_API_KEY"; // use your OpenWeatherMap API key;
 const apiUrl = "https://api.openweathermap.org/data/2.5/weather?q=";
 
 const searchBox = document.getElementById("search-box");
